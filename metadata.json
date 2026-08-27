@@ -1,0 +1,6 @@
+{
+  "name": "MarketPlacePro Appearance Studio",
+  "description": "Profesjonalny zestaw edytorów wyglądu sklepu (Pasek Górny, Logo Sklepu, Menu Główne, Pasek Wyszukiwania, Przyciski i Akcje, Kategorie, Główna Siatka Produktów, Edytor Widżetów, Edytor Banerów i Sliderów) z podglądem na żywo i zaawansowanym silnikiem stylizacji.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
